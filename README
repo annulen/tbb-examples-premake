@@ -1,0 +1,17 @@
+TBB Examples for Premake
+=======================
+
+This project demonstrates using Premake [1] build system for projects using TBB.
+
+Premake reads project configurations from file "premake4.lua" in each subdirectory.
+
+How to build
+-------------
+
+Run the next commands in root directory:
+
+  premake4
+  make
+
+
+[1] http://industriousone.com/premake
